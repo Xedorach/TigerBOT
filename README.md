@@ -4,6 +4,10 @@
 [![Coverage Status](https://coveralls.io/repos/github/sudrag/line_follower_turtlebot/badge.svg?branch=master)](https://coveralls.io/github/sudrag/line_follower_turtlebot?branch=master)
 
 ## Overview
+
+[NOTE: THIS IS NOT THE ORIGINAL TURTLEBOT CODE, THIS IS A MODIFIED VERSION FOR USE WITH A UNIVERSITY PROJECT, IT DOES NOT BELONG TO ME]
+
+
 This project uses ROS to demonstrate a simple line following Turtlebot in a simulated Gazebo environment . Line following is an easy to design application for a robot as all it requires is a robot with a camera and some tape. However this can be used to create complex high level models using multiple robots and multiple paths. This can be implemented in industries and shop floors for material handling and distribution. These robots can be made to follow these paths in periodic intervals autonomously and hence automate the function of the entire material handling system in a highly cost efficient way. This is the project that has been proposed to ACME robotics and the process has been explained below
 
 ## Procedure
